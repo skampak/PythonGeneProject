@@ -3,7 +3,7 @@
 """
 Created on Sun Dec  1 20:16:14 2019
 
-@author: thodoris
+@author: sofia
 """
 import os
 import requests,sys
